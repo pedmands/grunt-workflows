@@ -52,7 +52,7 @@ module.exports = function(grunt) {
 		watch: {
 			options: {
 				spawn: false,
-				livereload: true
+				livereload: true 
 			}, //options
 			scripts: {
 				files: ['builds/development/**/*.html',

@@ -1,0 +1,15 @@
+{
+  "name": "grunt-workflows",
+  "version": "1.0.0",
+  "description": "Project for Grunt workflows",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedmands/grunt-workflows.git"
+  },
+  "author": "Preston Edmands",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}

@@ -1,6 +1,6 @@
 
 
-//------------------SCRIPT-----------------
+//------------------[SCRIPT]-----------------
 var pixgrid = function() {
     function centerImage(theImage) {
         var myDifX = (window.innerWidth - theImage.width) / 2, myDifY = (window.innerHeight - theImage.height) / 2;
